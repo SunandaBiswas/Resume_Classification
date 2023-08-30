@@ -1,0 +1,402 @@
+  
+ 
+CONTACT
+ 
+  
+Dhaka, Bangladesh
+ 
+ 
+ 
+ 
+ 
++8801521215123
+ 
+ 
+ 
+ 
+ 
+biswas.sunanda9873@gmail.com
+ 
+ 
+ 
+ 
+ 
+ 
+Git
+H
+ub
+ 
+  
+ 
+   
+LinkedIn
+ 
+ 
+SKILLS
+ 
+  
+P
+ROGRAMMING  LANGUAGES
+ 
+
+ 
+Python (
+Core
+):
+ 
+Object Oriented 
+Programming, 
+Libraries
+ 
+-
+ 
+Scikit
+-
+Learn, Matplotlib, Seaborn, Numpy, 
+Pandas, Plotly, Iplot, Geopy, Folium, 
+Tensorflow,
+ 
+Keras,
+ 
+BeautifulSoup, 
+Selenium
+ 
+
+ 
+Java (Familiarity)
+ 
+
+ 
+SQL: 
+DDL &
+ 
+DML 
+Operations, 
+RDBMS
+ 
+
+ 
+HTML & CSS
+ 
+T
+OOLS
+ 
+
+ 
+Jupyter Notebook
+,
+ 
+Google Colab
+,
+ 
+Spyder
+ 
+
+ 
+Data reporting & Data 
+VisualizationTools
+: Google Studio, 
+Google Analytics, PowerBI
+, 
+Tableau, 
+Excel
+, SPSS
+ 
+
+ 
+MySQL
+, SQLite
+ 
+
+ 
+Git
+ 
+ 
+S
+OFT  SKILLS
+ 
+
+ 
+Dedication, Consistency
+,
+ 
+Leadership, 
+ 
+Problem
+ 
+Solving
+                                                         
+ 
+REFERENCE
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+   
+  
+PROJECTS
+ 
+Bachelor of Science
+ 
+(January
+ 
+2017 
+
+ 
+September 2021)
+ 
+ 
+ 
+HSC 
+(2014 
+
+ 
+2016)
+ 
+ 
+ 
+ 
+SSC
+ 
+(2013 
+
+ 
+2014)
+ 
+ 
+ 
+BRAC UNIVERSITY
+ 
+Computer Science & Engineering
+ 
+CGPA 
+3.21
+ 
+(Scale of 
+4.00
+)
+ 
+ 
+Savar Cantonment Public School & 
+College
+ 
+GPA 5.00 (Scale of 5.00)
+ 
+ 
+Savar Cantonment Public School & 
+College
+ 
+GPA 5.00 (Scale of 5.00)
+ 
+Machine Learning
+ 
+& Data Analysis
+ 
+Projects:
+ 
+
+ 
+
+Disease Prediction using Brain Images in multiclass 
+image classification approach
+ 
+
+ 
+Fake News Classification System
+ 
+ 
+
+ 
+Geospatial Data Analysis using Zomato Restaurants dataset
+ 
+
+ 
+Predictive model on 
+Next Day Rain
+fall
+ 
+
+ 
+Diabetes Prediction model based on medical records
+ 
+
+ 
+Predictive Analysis on Future Sales
+ 
+
+ 
+Sentiment Analyzer system with Twitter API data
+ 
+
+ 
+Stroke Prediction Model
+ 
+
+ 
+Bangladeshi Restaur
+a
+nt data analysis
+ 
+SUNANDA BISWAS
+ 
+ 
+A
+CADEMIC RESEARCH
+ 
+Estimation of air pollutants emissions in Bangladesh using Machine 
+Learning
+ 
+Worked on developing Univariate time series forecasting model using MLP 
+and LSTM architecture for estimation of different types of air pollutants 
+emissions in Bangladesh that are i
+ndicators of the climate change of 
+Bangladesh.
+ 
+Multi
+-
+modal Hate Speech Detection from Video Content 
+(Ongoing)
+ 
+The research aim is to detect hateful contents through analyzing video 
+frames, audio signals and extracted texts. Several algorithms such as LSTM,
+ 
+CNN based pretrained models and ensemble voting method has been used 
+for the classification problem.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CERTIFICATION
+ 
+SQL: Data Reporting and Analysis
+   
+LinkedIn Learning |
+ 
+2021
+ 
+Exploratory Data An
+a
+lysis (EDA) for Machine Learning
+   
+UDEMY |
+ 
+2021
+ 
+Machine Learning from Basics to Advanced
+   
+UDEMY |
+ 
+2021
+ 
+Machine Learning using Python Programming
+   
+UDEMY |
+ 
+2021
+ 
+ 
+ 
+ 
+EXTRA
+-
+CURRICULAR ACTIVITIES
+ 
+-
+ 
+Certificate of Appreciation for Active Contribution as Assistant Director: 
+BRAC University Computer 
+Club (BUCC), Finance Department | 2021
+ 
+-
+ 
+Promoted as Assistant Director, BRAC University Computer Club
+ 
+(BUCC), 
+Finance Department | 2019
+-
+2020
+ 
+-
+ 
+Volunteering in the event BRACATHON 3.0 organized by BRAC | 2019
+ 
+-
+ 
+Certificate of Participation: Animated Film M
+aking | Residential Campus 
+Activity, BRAC University | 2017
+ 
+ 
+Dr. Muhammad Iqbal Hossain
+ 
+Assistant Professor,
+ 
+Department of Computer Science and 
+Engineering
+ 
+BRAC University, Dhaka, Bangladesh
+ 
+Contact: +88
+-
+09617445122
+ 
+Email Id: iqbal.hossain@bracu.ac.bd
+ 
+ 
+EDUCATIONAL 
+BACKGROUND
+ 
+WORK EXPERIENCE
+ 
+Data Analyst
+ 
+| 
+October
+2021 
+
+ 
+January2022
+ 
+Pyceptron
+ 
+
+ 
+Information
+ 
+Technology Company, Bangladesh
+ 
+-
+ 
+Analyzing data to find business needs, 
+making business 
+decisions 
+using python, 
+SQL and PowerBI
+ 
